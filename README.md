@@ -4,6 +4,7 @@ Your smart, friendly finance companion — built in Python, powered by AI.
 MoneyMate is an educational personal-finance app that helps users understand money better through a chatbot, personality quiz, goal planner, and market-dip alerts.
 Simple. Helpful. Zero financial jargon.
 🚀 Features
+
 1️⃣ AI Finance Chatbot
 Ask anything about taxes, budgeting, saving, or investing — get simple, educational answers using IBM Granite 3.3 2B Instruct.
 
